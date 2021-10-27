@@ -3,3 +3,4 @@
 第二次操作
 第三次操作
 Git tracks changes.
+Git tracks changes of files.
